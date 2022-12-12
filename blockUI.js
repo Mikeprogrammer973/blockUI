@@ -7,7 +7,7 @@
  *
  *Source code at: https://github.com/Mikeprogrammer973/blockUI
  *
- *Examples at: https://mikeprogrammer973.github.io/blockUI
+ *Examples at: https://mikeprogrammer973.github.io/blockUI/ or https://block-ui-two.vercel.app/
  *
  *Licenced under MIT license:
  *http://www.opensource.org/licenses/mit-license.php
